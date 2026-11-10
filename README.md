@@ -26,7 +26,7 @@ Plataforma para colaboradores enviarem ideias de melhoria e acompanharem o andam
 
 ## Onde me encontrar 📫
 
-<a href="www.linkedin.com/in/maike-césar-da-silva-de-andrade-4273a7212" target="_blank">
+<a href="https://www.linkedin.com/in/maike-c%C3%A9sar-da-silva-de-andrade-4273a7212/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/maikedev8/" target="_blank">
