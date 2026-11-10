@@ -9,9 +9,8 @@
 
 ## Tecnologias ✨
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,vite,tailwind,postgres,git,github,vscode" alt="Tecnologias" />
-</p>
+Tecnologias ✨
+<p> <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="48" /> <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="48" /> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="48" /> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="48" /> <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" height="48" /> <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="48" /> <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" height="48" /> <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" height="48" /> <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" height="48" /> <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="48" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" height="48" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" height="48" /> </p>
 
 ---
 
