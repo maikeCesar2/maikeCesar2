@@ -1,9 +1,8 @@
 ## Olá, eu sou o Maike! 👋
 
-- 💻 Desenvolvedor **Full Stack** em formação, com foco em **Node.js**
+- 💻 Desenvolvedor **Full Stack****
 - 🌱 Atualmente aprofundando **Node.js**, **Express** e **PostgreSQL** no back-end
-- 🧩 Venho da área de **Qualidade**: gosto de processos, melhoria contínua e atenção aos detalhes
-- 🚀 Construindo o **ide.al**, uma plataforma para colaboradores enviarem ideias de melhoria nas empresas
+- 🚀 Criador do **ide.al**, uma plataforma para colaboradores enviarem ideias de melhoria nas empresas
 - 🔎 Em busca da minha primeira oportunidade como dev, no Brasil ou no exterior
 
 ---
